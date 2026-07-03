@@ -48,6 +48,11 @@
   font: var(--subtitle);
   text-align: center;
 }
+.subtitle-purple {
+  color: var(--principal-color-purple);
+  font: var(--subtitle);
+  text-align: center;
+}
 .title-md {
   font: var(--title-md);
   color: var(--base-gray-100);
