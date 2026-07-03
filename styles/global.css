@@ -38,4 +38,25 @@
   margin-inline: auto;
 }
 
+.title-sm {
+  font: var(--title-sm);
+  color: var(--base-gray-100);
+}
+
+.subtitle-red {
+  color: var(--principal-color-red);
+  font: var(--subtitle);
+  text-align: center;
+}
+.title-md {
+  font: var(--title-md);
+  color: var(--base-gray-100);
+  text-align: center;
+  margin-top: 8px;
+}
+
+.text-sm {
+  font: var(--text-sm);
+  color: var(--base-gray-200);
+}
 
